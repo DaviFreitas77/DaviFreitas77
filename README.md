@@ -1,16 +1,12 @@
-## Hi there 👋
+### Olá!,eu sou o Davi Freitas 🖐️
 
-<!--
-**DaviFreitas77/DaviFreitas77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviFreitas77&show_icons=true&theme=dracula)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que uso no meu dia
+<div style="display:inline_block">
+  <br/>
+  <img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
