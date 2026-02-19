@@ -4,7 +4,7 @@ Desenvolvedor web apaixonado por resolver problemas, otimizar processos e criar 
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -19,7 +19,7 @@ Desenvolvedor web apaixonado por resolver problemas, otimizar processos e criar 
 
 ---
 
-## 💼 Trabalhos em desenvolvimento
+## 💻 Trabalhos em desenvolvimento
 
 ### 1. E-commerce
 - **Descrição:** Aplicação web completa para vendas online, com gerenciamento de produtos, carrinho e integração de pagamentos.  
@@ -28,6 +28,6 @@ Desenvolvedor web apaixonado por resolver problemas, otimizar processos e criar 
 
 ---
 
-## 📫 Contato
+## Onde me encontrar
 
 - LinkedIn: [Davi Freitas](https://www.linkedin.com/in/davi-freitas-236a63290/)
