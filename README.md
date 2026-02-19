@@ -4,14 +4,6 @@ Desenvolvedor web apaixonado por resolver problemas, otimizar processos e criar 
 
 ---
 
-## 👨‍💻 Sobre Mim
-
-- 🎓 Técnico em Desenvolvimento de Sistemas  
-- 💼 Foco em PHP, MySQL e TypeScript  
-- 🚀 Em constante evolução em Clean Code e boas práticas de desenvolvimento  
-
----
-
 ## 🛠️ Skills
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -27,17 +19,12 @@ Desenvolvedor web apaixonado por resolver problemas, otimizar processos e criar 
 
 ---
 
-## 💼 Projetos Recentes
+## 💼 Trabalhos em desenvolvimento
 
 ### 1. E-commerce
 - **Descrição:** Aplicação web completa para vendas online, com gerenciamento de produtos, carrinho e integração de pagamentos.  
 - **Tecnologias:** Docker, PHP, Laravel, React.js, Scramble, Mercado Pago  
-- **GitHub:** [Acessar repositório](https://github.com/davi-freitas/ecommerce)
-
-### 2. Sistema de Encurtador de URLs
-- **Descrição:** Gera links curtos com redirecionamento, contagem de cliques e dashboard de administração.  
-- **Tecnologias:** Docker, PHP, Laravel, MySQL, Next.js  
-- **GitHub:** [Acessar repositório](https://github.com/davi-freitas/url-shortener)
+- **GitHub:** [Acessar repositório]([https://github.com/davi-freitas/ecommerce](https://github.com/DaviFreitas77/bazar))
 
 ---
 
