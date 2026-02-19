@@ -1,42 +1,46 @@
-# Paulo Davi
+# Paulo Davi 💻
 
-Olá! Meu nome é Paulo Davi, sou um desenvolvedor web apaixonado por resolver problemas, otimizar processos e explorar novas formas de tornar o desenvolvimento de software mais eficiente e inovador. Atualmente estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.
+Desenvolvedor web apaixonado por resolver problemas, otimizar processos e criar soluções eficientes. Atualmente cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.  
 
 ---
 
-## Sobre Mim
+## 👨‍💻 Sobre Mim
 
 - 🎓 Técnico em Desenvolvimento de Sistemas  
-- 💼 Desenvolvedor web com foco em PHP, MySQL e TypeScript  
-- 🚀 Ampliando habilidades em Clean Code e boas práticas de desenvolvimento
+- 💼 Foco em PHP, MySQL e TypeScript  
+- 🚀 Em constante evolução em Clean Code e boas práticas de desenvolvimento  
 
 ---
 
-## Minhas Skills
+## 🛠️ Skills
 
-- **Linguagens:** PHP, TypeScript  
-- **Frameworks:** Laravel, Next.js  
-- **Banco de Dados:** MySQL, PostgreSQL, SQL  
-- **Sistemas Operacionais:** Linux, Windows  
-- **Outras Tecnologias:** Postman, Scramble, Docker,Mercado pago 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Scramble](https://img.shields.io/badge/Scramble-6C6CFF?style=for-the-badge)
+![Mercado Pago](https://img.shields.io/badge/Mercado%20Pago-003399?style=for-the-badge&logo=mercadopago&logoColor=white)
 
 ---
 
-## Trabalhando atualmente
+## 💼 Projetos Recentes
 
-### 2. E-commerce
-- **Descrição:** Aplicação web completa para vendas online, com gerenciamento de produtos, carrinho de compras e integração de pagamentos.  
+### 1. E-commerce
+- **Descrição:** Aplicação web completa para vendas online, com gerenciamento de produtos, carrinho e integração de pagamentos.  
 - **Tecnologias:** Docker, PHP, Laravel, React.js, Scramble, Mercado Pago  
-- **GitHub:** [https://github.com/davi-freitas/ecommerce](https://github.com/davi-freitas/ecommerce)
+- **GitHub:** [Acessar repositório](https://github.com/davi-freitas/ecommerce)
 
-- 
-### 1. Sistema de Encurtador de URLs
-- **Descrição:** Um sistema que gera links curtos e faz redirecionamento, com contagem de cliques e dashboard de administração.  
+### 2. Sistema de Encurtador de URLs
+- **Descrição:** Gera links curtos com redirecionamento, contagem de cliques e dashboard de administração.  
 - **Tecnologias:** Docker, PHP, Laravel, MySQL, Next.js  
-- **GitHub:** [https://github.com/davi-freitas/url-shortener](https://github.com/davi-freitas/url-shortener)  
+- **GitHub:** [Acessar repositório](https://github.com/davi-freitas/url-shortener)
 
+---
 
-
-## Onde me encontrar
+## 📫 Contato
 
 - LinkedIn: [Davi Freitas](https://www.linkedin.com/in/davi-freitas-236a63290/)
