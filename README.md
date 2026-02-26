@@ -1,6 +1,6 @@
 # Paulo Davi 💻
 
-Desenvolvedor web apaixonado por resolver problemas, otimizar processos e criar soluções eficientes
+## Desenvolvedor web apaixonado por resolver problemas, otimizar processos e criar soluções eficientes
 ---
 
 ###  Técnologias
