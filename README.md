@@ -19,7 +19,7 @@ Desenvolvedor web apaixonado por resolver problemas, otimizar processos e criar 
 
 ---
 
-###  Trabalhos
+###  Últimos trabalhos
 
 [![E-commerce](https://img.shields.io/badge/E-commerce-blue?style=flat-square)](https://github.com/DaviFreitas77/bazar) 
 [![Institucional](https://img.shields.io/badge/Institucional-blue?style=flat-square)](https://github.com/DaviFreitas77/frati)
