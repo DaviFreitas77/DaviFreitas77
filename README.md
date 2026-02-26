@@ -1,7 +1,6 @@
 # Paulo Davi 💻
 
-Desenvolvedor web apaixonado por resolver problemas, otimizar processos e criar soluções eficientes. Atualmente cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.  
-
+Desenvolvedor web apaixonado por resolver problemas, otimizar processos e criar soluções eficientes
 ---
 
 ###  Técnologias
